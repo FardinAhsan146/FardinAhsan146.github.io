@@ -1,4 +1,4 @@
-# Fardin Ahsan About me 
+# Fardin Ahsan - About me 
 
 I'm a self-taught data scientist who is passionate about building better predictive models of The World.  I spend a significant portion of my free time reading up on Statistics and programming pet projects using Python. 
 
