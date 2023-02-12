@@ -79,5 +79,5 @@ I like writing non-academic non-fiction texts. However, I don't have the free ti
 ## Contact me
 
 * You can email me at fardinahsan146@gmail.com
-* Find my LinkedIn here
+* Find my [LinkedIn](https://www.linkedin.com/in/fardin-ahsan/)
 * WhatsApp me at +971501468233
