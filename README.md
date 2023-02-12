@@ -2,7 +2,7 @@
 
 I'm a self-taught data scientist who is passionate about building better predictive models of The World.  I spend a significant portion of my free time reading up on Statistics and programming pet projects using Python. 
 
-![Image](Pasted image 20230212035518.png?raw=true)
+![Image](img.png?raw=true)
 
 ```
 <a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
