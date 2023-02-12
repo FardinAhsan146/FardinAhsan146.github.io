@@ -1,6 +1,8 @@
-# About me 
+# Fardin Ahsan About me 
 
 I'm a self-taught data scientist who is passionate about building better predictive models of The World.  I spend a significant portion of my free time reading up on Statistics and programming pet projects using Python. 
+
+I use Pythons datascience stack (Pandas,NumPy,Sk-learn and PyTorch) for all EDA, visualization and modelling. 
 
 
 <p align="center" width="100%">
