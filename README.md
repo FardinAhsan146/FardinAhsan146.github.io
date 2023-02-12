@@ -2,11 +2,10 @@
 
 I'm a self-taught data scientist who is passionate about building better predictive models of The World.  I spend a significant portion of my free time reading up on Statistics and programming pet projects using Python. 
 
-![Image](img.png?raw=true)
 
-```
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
-```
+<p align="center" width="100%">
+    <img width="33%" src="https://raw.githubusercontent.com/FardinAhsan146/FardinAhsan146.github.io/main/img.png">
+</p>
 
 ## Do I know how to write a fizz-buzz script? 
 
