@@ -19,7 +19,7 @@ for i in range(1,16):
     print(f"{'fizz'*(not i % 3)}{'buzz'*(not i % 5)}{str(i)*(i % 3 != 0 and  i % 5 != 0)}")
 ```
 
-## Publications 
+## Research Publications 
 
 I worked on four different research projects on Machine Learning applications during my undergraduate degree. The results from two of the papers are currently published, the remaining two are a work in progress, that I am currently working on having graduated. 
 
@@ -37,7 +37,7 @@ I worked on four different research projects on Machine Learning applications du
 	* **First Author, Collaboration**
 	* **Technical Summary**: Classification modelling, Representation Learning, Graph Attention Networks
 	* **General Summary**: Using Graph Attention Network to learn node features of directed temporal graphs. Models trained on the Elliptic Dataset. Aiming to achieve highest recall score for illicit class. 
-	* Planning to publish in March 2023. If you want to collaborate reach out to me through email. 
+	* Planning to publish in March 2023. If you want to collaborate reach out to me through email. Work in progress.
 * #### Prevent-a-bot, classifying sexual predators in online chats 
 	* **Collaboration**
 	* **Technical Summary**: NLP Classification, Representation Learning, GPT-Dialo-Large based chatbot,  Chatbot application back-end
@@ -51,9 +51,9 @@ I worked on four different research projects on Machine Learning applications du
 	* Under review for publication in the Journal of Computer Assisted Learning
 
 
-## Projects
+## Personal Projects
 
-All my personal projects can be found in my Github. Here are a few. 
+All my personal projects can be found in my [Github](https://github.com/FardinAhsan146). Here are a few. 
 
 * #### [Dubai Housing Price Regression](https://github.com/FardinAhsan146/DubaiHousingPriceDS)
 	* **Technical Summary**: Regression modelling, Algorithms 
