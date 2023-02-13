@@ -47,7 +47,7 @@ I worked on four different research projects on Machine Learning applications du
 * #### Investigating students’ preferred camera settings on Zoom for optimal learning experiences across different interaction scenarios in online learning
 	* **Collaboration**
 	* **Technical Summary**: Discrete Clustering, Hypothesis Testing, ANOVA
-	* **General Summary**: Used statistical techniques to indentify different groups of students based on their camera usage (theirs and instructors). Students were stratified based on gender and academic achievement levels. 
+	* **General Summary**: Used statistical techniques to indentify different groups of students based on their camera usage (theirs and instructors). Students were stratified based on gender and academic achievement levels. Suggested pedagogical methods to ensure optimal learning outcomes for the different groups. 
 	* Under review for publication in the Journal of Computer Assisted Learning
 
 
