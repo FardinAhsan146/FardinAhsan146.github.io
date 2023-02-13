@@ -19,7 +19,7 @@ for i in range(1,16):
     print(f"{'fizz'*(not i % 3)}{'buzz'*(not i % 5)}{str(i)*(i % 3 != 0 and  i % 5 != 0)}")
 ```
 
-## Research Publications 
+## Research/Publications 
 
 I worked on four different research projects on Machine Learning applications during my undergraduate degree. The results from two of the papers are currently published, the remaining two are a work in progress, that I am currently working on having graduated. 
 
@@ -40,7 +40,7 @@ I worked on four different research projects on Machine Learning applications du
 	* Planning to publish in March 2023. If you want to collaborate reach out to me through email. Work in progress.
 * #### Prevent-a-bot, classifying sexual predators in online chats 
 	* **Collaboration**
-	* **Technical Summary**: NLP Classification, Representation Learning, GPT-Dialo-Large based chatbot,  Chatbot application back-end
+	* **Technical Summary**: NLP Classification, [fasttext cc.en.300](https://fasttext.cc/docs/en/crawl-vectors.html) sentence vectors, [GPT-Dialo-Large](https://huggingface.co/microsoft/DialoGPT-large?text=Hey+my+name+is+Mariama%21+How+are+you%3F) based chatbot,  Chatbot application back-end
 	* **General Summary**: Created a classifier to detect sexual predators, trained on the PAN-12 dataset. A GPT-Dialo-Large based chatbot was tuned to pretend to be a child. The two parts are tied together using an SQLite database. 
 	* In the process of being published in IEEE Access
 	
