@@ -16,7 +16,7 @@ I use Pythons datascience stack (Pandas,NumPy,Sk-learn and PyTorch) for all EDA,
 Yes. Branchless programming not necessary
 '''
 for i in range(1,16):
-    print('fizz'*(i % 3 == 0)+'buzz'*(i % 5 == 0)+str(i)*(i % 3 != 0 and  i % 5 != 0))
+    print(f"{'fizz'*(not i % 3)}{'buzz'*(not i % 5)}{str(i)*(i % 3 != 0 and  i % 5 != 0)}")
 ```
 
 ## Publications 
