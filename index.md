@@ -60,7 +60,7 @@ All my personal projects can be found in my [Github](https://github.com/FardinAh
 	* **Technical Summary**: Regression modelling, Algorithms 
 	* **Story**: I combined 5 different datasets to predict Housing prices in Dubai based on the features of the housing unit itself and its surrounding venues and transit options. I had to write an algorithm that uses GPS coordinates to assign venues to specific neighborhoods based on their polygon outlines.  
 
-* #### [Red Scare Text Analysis](https://github.com/f3zinker/RedScare-Analysis) 
+* #### Subreddite Text Analysis (Contact me for source-code.) 
 	* **Technical Summary**: Time series hypothesis testing, Text analysis, Language API's   
 	* **Story**: I carried out text analysis to figure out if the discourse quality in a subreddit got worse over time. 
 	
