@@ -39,11 +39,11 @@ I worked on four different research projects on Machine Learning applications du
 	* **Technical Summary**: Classification modelling, Representation Learning, Graph Attention Networks
 	* **General Summary**: Using Graph Attention Network to learn node features of directed temporal graphs. Models trained on the Elliptic Dataset. Aiming to achieve highest recall score for illicit class. 
 	* Planning to publish in March 2023. If you want to collaborate reach out to me through email. Work in progress.
-* #### Protectbot: A Chatbot to Protect Children on Gaming Platforms 
+* #### Protectbot: A Chatbot to Protect Children on Gaming Platforms (Will be open sourced upon Publication)
 	* **Collaboration**
 	* **Technical Summary**: NLP Classification, [fasttext cc.en.300](https://fasttext.cc/docs/en/crawl-vectors.html) sentence vectors, [GPT-Dialo-Large](https://huggingface.co/microsoft/DialoGPT-large?text=Hey+my+name+is+Mariama%21+How+are+you%3F) based chatbot,  Chatbot application back-end
 	* **General Summary**: Created a classifier to detect sexual predators in online chats, trained on the [PAN-12 dataset](https://pan.webis.de/downloads/publications/papers/inches_2012.pdf). A GPT-Dialo-Large based chatbot was tuned to pretend to be a teenage girl. The two parts are tied together using an SQLite database. 
-	* In the process of being published in IEEE Access
+	* In the process of being published in IEEE Access. Source code for sentence vector generation [here](https://github.com/FardinAhsan146/pan12ext).
 	
 * #### Investigating students’ preferred camera settings on Zoom for optimal learning experiences across different interaction scenarios in online learning
 	* **Collaboration**
