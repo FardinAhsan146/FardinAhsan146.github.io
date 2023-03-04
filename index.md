@@ -12,7 +12,7 @@ I use Pythons datascience stack (Pandas,NumPy,Sk-learn and PyTorch) for all EDA,
 ## Skills 
 
 <p align="center" width="100%">
-    <img width="75%" src="https://raw.githubusercontent.com/FardinAhsan146/FardinAhsan146.github.io/main/code.PNG">
+    <img width="50%" src="https://raw.githubusercontent.com/FardinAhsan146/FardinAhsan146.github.io/main/code.PNG">
 </p>
 
 ## Do I know how to write a fizz-buzz script? 
