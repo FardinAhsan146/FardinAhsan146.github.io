@@ -9,6 +9,11 @@ I use Pythons datascience stack (Pandas,NumPy,Sk-learn and PyTorch) for all EDA,
     <img width="33%" src="https://raw.githubusercontent.com/FardinAhsan146/FardinAhsan146.github.io/main/img.png">
 </p>
 
+## Skills 
+<p align="center" width="100%">
+    <img width="75%" src="https://raw.githubusercontent.com/FardinAhsan146/FardinAhsan146.github.io/main/code.png">
+</p>
+
 ## Do I know how to write a fizz-buzz script? 
 
 ```python
