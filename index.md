@@ -87,7 +87,7 @@ I like writing non-academic non-fiction texts. However, I don't have the free ti
 * [Accuracy is not accurate.](https://medium.com/@fardinahsan146/accuracy-is-not-accurate-6eb321f2999c)
 
 ## Contact me
-* [Resume](https://drive.google.com/file/d/1lwEu-ipCgbS9rKMHmec2D_ra1ZeErYS8/view?usp=sharing)
+* [Resume]([https://drive.google.com/file/d/1lwEu-ipCgbS9rKMHmec2D_ra1ZeErYS8/view?usp=sharing](https://drive.google.com/file/d/1NdytyCTfqkIRlttCgVKNW2MzVyFj9E_L/view?usp=sharing))
 * You can email me at fardinahsan146@gmail.com
 * Find my [LinkedIn](https://www.linkedin.com/in/fardin-ahsan/)
 * WhatsApp me at +971501468233
