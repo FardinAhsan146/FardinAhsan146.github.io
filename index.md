@@ -1,19 +1,16 @@
 # About me 
 
-I'm an aspiring self-taught data scientist who is passionate about building better predictive models of The World.  I spend a significant portion of my free time reading up on Statistics and programming pet projects using Python. 
+I'm a self-taught data scientist who is passionate about building better predictive models of The World.  I spend a significant portion of my free time reading up on Statistics and programming pet projects using Python. 
 
-I use Pythons datascience stack (Pandas,NumPy,Sk-learn and PyTorch) for all EDA, visualization and modelling. 
+## Tech stack
 
+I like using whatever tools are best for the project but I'm biased towards using Python when I could. 
 
-<p align="center" width="100%">
-    <img width="33%" src="https://raw.githubusercontent.com/FardinAhsan146/FardinAhsan146.github.io/main/img.png">
-</p>
-
-## Skills 
-
-<p align="center" width="100%">
-    <img width="50%" src="https://raw.githubusercontent.com/FardinAhsan146/FardinAhsan146.github.io/main/code.PNG">
-</p>
+- Python (NumPy, Pandas, Scikit-learn, Pytorch, Flask)
+- Ruby (Rails)
+- SQL (I really like Postgres and SQLite, other Databases are OK)
+- Large Language Models (I like using Langchain whenever I can)
+- Metabase (Most BI tools are the same if you can query using SQL). 
 
 ## Do I know how to write a fizz-buzz script? 
 
