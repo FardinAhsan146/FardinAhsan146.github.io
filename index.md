@@ -4,7 +4,7 @@ I'm a self-taught data scientist who is passionate about building better predict
 
 
 <p align="center" width="100%">
-    <img width="33%" src="https://raw.githubusercontent.com/FardinAhsan146/FardinAhsan146.github.io/main/img.png">
+    <img width="33%" src="https://raw.githubusercontent.com/FardinAhsan146/FardinAhsan146.github.io/main/img2.png">
 </p>
 
 ## Tech stack
